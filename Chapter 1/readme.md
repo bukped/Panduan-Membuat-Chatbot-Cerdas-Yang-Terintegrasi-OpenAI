@@ -1,4 +1,4 @@
-# Pada chapter 1 kita akan mengulik langkah pembuatan chatbot discord python yang terintegrasi openai:
+# Pada chapter 1 kita akan mengulik langkah pembuatan chatbot Discord python yang terintegrasi OpenAI:
 
 - Load Token dari file .env
 - Memanggil perintah untuk bot
