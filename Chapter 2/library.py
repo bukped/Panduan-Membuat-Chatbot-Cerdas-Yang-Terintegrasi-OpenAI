@@ -13,5 +13,5 @@ from random import choice
 # Library "dotenv" digunakan untuk memuat environment variables dari file ".env".
 from dotenv import load_dotenv
 
-# Library "openai" adalah library untuk mengakses API OpenAI, yang menyediakan teknologi AI untuk aplikasi.
+# Library "openai" adalah library untuk mengakses API OpenAI, yang menyediakan teknologi AI untuk aplikasi
 import openai
