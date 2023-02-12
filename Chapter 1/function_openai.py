@@ -11,9 +11,6 @@ async def on_message(message):
     if message.author == client.user:
         return
 
-    # Tidak Menggunakan Prefix
-    # if message.content.startswith(""):
-
     # Menggunakan Prefix
     if message.content.startswith(prepik):
         inputan = message.content.split()
